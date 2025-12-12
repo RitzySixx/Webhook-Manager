@@ -34,7 +34,7 @@ Download the latest release from the [Releases section](https://github.com/Ritzy
 - Internet connection for Discord connectivity
 
 ### **Installation**
-1. Download `Riddy-Webhook-Manager-v1.0.0.exe`
+1. Download `RiddyWebhookManager.exe`
 2. Run the installer
 3. Follow the setup wizard
 4. Launch the application
