@@ -26,7 +26,7 @@ Riddy Webhook Manager is a professional desktop application that simplifies Disc
 ## 📥 Download & Install
 
 ### **Direct Download**
-Download the latest release from the [Releases section](https://github.com/yourusername/Riddy-Webhook-Manager/releases).
+Download the latest release from the [Releases section](https://github.com/RitzySixx/Webhook-Manager/releases/).
 
 **System Requirements:**
 - Windows 10/11 (64-bit)
