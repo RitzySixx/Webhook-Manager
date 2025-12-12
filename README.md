@@ -10,7 +10,7 @@
 
 Riddy Webhook Manager is a professional desktop application that simplifies Discord webhook management. Send messages, update existing posts, and manage all your webhooks from a beautiful, intuitive interface.
 
-![Application Screenshot](screenshot.png)
+<img width="1193" height="771" alt="image" src="https://github.com/user-attachments/assets/c1c8c8df-3684-4012-b08b-bb81988a4b89" />
 
 ## ✨ Features
 
