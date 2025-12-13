@@ -10,7 +10,7 @@
 
 Riddy Webhook Manager is a professional desktop application that simplifies Discord webhook management. Send messages, update existing posts, and manage all your webhooks from a beautiful, intuitive interface.
 
-<img width="1193" height="771" alt="image" src="https://github.com/user-attachments/assets/c1c8c8df-3684-4012-b08b-bb81988a4b89" />
+<img width="1177" height="753" alt="image" src="https://github.com/user-attachments/assets/51e386c8-67a8-40fc-b9fd-7d6be9dea4e8" />
 
 ## ✨ Features
 
@@ -135,17 +135,6 @@ Open an issue on GitHub with:
 - What you tried to do
 - What error you received
 - Screenshots if possible
-
-## 📈 Changelog
-
-### v1.0.0 - Initial Release
-- ✅ Send text files to Discord via webhooks
-- ✅ Update existing Discord messages
-- ✅ Webhook management (add/edit/delete)
-- ✅ Built-in file editor
-- ✅ Real-time preview with mention tracking
-- ✅ Modern dark theme UI
-- ✅ Windows installer
 
 ## 🙏 Acknowledgments
 
